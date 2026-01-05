@@ -55,7 +55,7 @@
 
 /* Connect section */
 .connect-section {
-    background: #FFE87C;
+    background: linear-gradient(135deg, #ffc107 0%, #fd7e14 100%);
     padding: 25px 0;
     width: 100%;
 }
@@ -131,7 +131,7 @@
 
 /* Footer navigation */
 .footer-nav {
-    background: #000080;
+    background: #010129;
     padding: 20px 20px;
 }
 
@@ -209,7 +209,7 @@
 
 /* Footer bottom */
 .footer-bottom {
-    background: #000080;
+    background: #010129;
     border-top: 1px solid rgba(255,255,255,0.2);
     width: 100%;
 }

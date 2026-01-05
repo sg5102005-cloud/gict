@@ -78,7 +78,7 @@ body {
 
 /* Mission heading */
 .mission-wrapper {
-    background-color: #000080;
+    background-color: #010129;
     width: 100%;
     margin-top: 20px;
     padding: 0;
@@ -119,7 +119,7 @@ body {
 .profile-card h2 {
     margin: 0 0 5px;
     font-size: 18px;
-    color: #000080;
+    color: #010129;
 }
 
 .profile-card p {

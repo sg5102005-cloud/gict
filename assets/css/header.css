@@ -71,7 +71,7 @@ html, body {
 .accessibility-tools .font-decrease,
 .accessibility-tools .font-increase {
     font-weight: bold;
-    background: #000080;
+    background: #010129;
     color: #fff;
     border-radius: 2px;
     font-size: 11px;
@@ -132,7 +132,7 @@ html, body {
 
 
 .main-nav .container {
-    background: #000080;
+    background: #010129;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -155,7 +155,7 @@ html, body {
 
 .main-nav .nav-left .home-icon {
     background: #ffffff;
-    color: #000080;
+    color: #010129;
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -170,7 +170,7 @@ html, body {
 
 .main-nav .nav-left .home-icon i {
     font-size: 32px;
-    color: #000080;
+    color: #010129;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -224,7 +224,7 @@ html, body {
 
 .nav-links a:hover {
     background: #f4b400;;
-    color: #000080;
+    color: #010129;
     border-radius: 0;
 } 
 
@@ -669,7 +669,7 @@ html, body {
     .nav-links .nav-btn:hover,
     .nav-links .nav-btn:active {
         background: #f8f9fa;
-        color: #000080;
+        color: #010129;
     }
 
     .nav-dropdown-content {
@@ -722,8 +722,8 @@ html, body {
     .nav-dropdown.open .nav-dropdown-content a:hover,
     .nav-dropdown.open .nav-dropdown-content a:active {
         background: #e9ecef !important;
-        color: #000080 !important;
-        border-left-color: #000080 !important;
+        color: #010129 !important;
+        border-left-color: #010129 !important;
     }
 
     .top-links,
@@ -777,7 +777,7 @@ html, body {
     
     .nav-links.mobile-open .nav-dropdown.open .nav-btn::after {
         transform: rotate(180deg);
-        color: #000080;
+        color: #010129;
     }
     
     /* Show caret-down icons in desktop, hide in mobile */

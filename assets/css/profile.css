@@ -33,7 +33,7 @@
 }
 
 .image-caption {
-    background: #000080;
+    background: #010129;
     color: #fff;
     text-align: center;
     padding: 15px;
@@ -60,7 +60,7 @@
     background: #fff;
     padding: 10px;
     text-align: center;
-    border-bottom: 2px solid #000080;
+    border-bottom: 2px solid #010129;
 }
 
 .profile-img {
@@ -89,15 +89,15 @@
 .button-group {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 2px;
 }
 
 .btn.yellow-btn {
-    background: #f8dc65;
-    color: #000080;
+    background: linear-gradient(135deg, #ffc107 0%, #fd7e14 100%);
+    color: #010129;
     border: none;
-    padding: 10px 25px;
-    border-radius: 4px;
+    padding: 6px 30px;
+    border-radius: 1px;
     font-weight: bold;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -105,7 +105,7 @@
 }
 
 .btn.yellow-btn:hover {
-    background: #000080;
+    background: #010129;
     color: #fff;
 }
 
@@ -149,7 +149,7 @@
     color: #fff;
     font-size: 16px;
     padding: 15px;
-    background: #000080;
+    background: #010129;
     margin-top: 0;
     width: 100%;
 }
